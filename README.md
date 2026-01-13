@@ -1,1 +1,1 @@
-# vehical-damage-detection-system
+# vehicle-damage-detection-system
